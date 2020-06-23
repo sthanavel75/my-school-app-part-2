@@ -1,0 +1,55 @@
+h1 {
+    color: gold;
+}
+
+/* * {
+    border: solid;
+} */
+
+.header{
+    background-color: goldenrod;
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+.menu{
+margin-right: 30px;
+
+
+
+}
+h2{
+
+
+}
+h3{
+  
+}
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
+.item{
+
+
+
+
+}
